@@ -3,7 +3,8 @@
 
   <h3>
     »I´m a trainee developer based in Argentina with a passion for coding. 
-
+  </h3>
+  <h3>
     »I´m currently studying an Universitary degree in programming. 📚
   </h3>
 </div>
