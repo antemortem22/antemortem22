@@ -16,8 +16,6 @@ Backend-Focused Fullstack Developer | Curious by nature
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
 </p>
 
 <p align="center">
@@ -62,10 +60,8 @@ Curiosity drives me. Autonomy shapes me. Creativity balances me.
 - System design thinking
 
 ### Frontend (to support the backend vision)
-- Next.js
 - React
 - TypeScript
-- Tailwind CSS
 
 ---
 
