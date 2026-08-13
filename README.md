@@ -107,40 +107,30 @@
 ---
 
 <img
-  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
-  width="25"
-/>
-<b> | GitHub Stats |</b>
-
-<div align="center">
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=antemortem22&show_icons=true&hide_border=true&theme=midnight-purple"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=antemortem22&layout=compact&hide_border=true&theme=midnight-purple"
-  />
-
-</div>
-
----
-
-<img
   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlxem9qcDY5MXAyY3FrcHlwOGkwNWRpNWUzM3ZsazBxazducmNzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PWBCZGqdulucLMDy5f/giphy.gif"
   width="25"
 />
 <b> | Let's Connect |</b>
 
-<p align="left">
+<br><br>
+
+<div align="left">
+
   <a href="https://www.linkedin.com/in/agostina-di-napoli">
     <img
       src="https://img.shields.io/badge/LinkedIn-Agostina%20Di%20Napoli-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
     />
   </a>
-</p>
+
+  <a href="mailto:agosdn.dev22@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-agosdn.dev22%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+
+</div>
 
 ---
 
