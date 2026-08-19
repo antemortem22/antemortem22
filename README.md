@@ -1,7 +1,7 @@
 <h1 align="center">🖤 Hi, I'm Agos</h1>
 
 <p align="center">
-  <b>Backend-Focused Fullstack Developer</b> · .NET · C# · SQL Server
+  <b>Backend-Focused Fullstack Developer</b> · .NET · C# · SQL Server · React
 </p>
 
 <p align="center">
